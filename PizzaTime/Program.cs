@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PizzaTime
 {
@@ -10,7 +6,8 @@ namespace PizzaTime
     {
         static void Main(string[] args)
         {
-
+            System.Diagnostics.Process.Start("https://bestellen.dominos.nl/estore/nl/Home?redirectTo=delivery");
+            Environment.Exit(0);
         }
     }
 }
