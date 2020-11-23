@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>1200px-Dominos_pizza_logo.svg.ico</ApplicationIcon>
+    <ApplicationIcon>240870.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="1200px-Dominos_pizza_logo.svg.ico" />
+    <Content Include="240870.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -6,7 +6,7 @@ namespace PizzaTime
     {
         static void Main(string[] args)
         {
-            System.Diagnostics.Process.Start("https://bestellen.dominos.nl/estore/nl/Home?redirectTo=delivery");
+            System.Diagnostics.Process.Start("https://www.newyorkpizza.nl/");
             Environment.Exit(0);
         }
     }
